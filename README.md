@@ -1,5 +1,5 @@
-<include a CircleCI status badge, here>
 
+[![CircleCI](https://circleci.com/gh/villaltacr/automation_demo/tree/master.svg?style=svg)](https://circleci.com/gh/villaltacr/ml-microservice/tree/master)
 ## Project Overview
 
 You can find the docker image created for this project here: https://hub.docker.com/repository/docker/dvillalt/mlearning
