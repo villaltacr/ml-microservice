@@ -1,3 +1,10 @@
+Kubernates
+
+d_vildel@cloudshell:~ (project-3276376623799158481)$ kubectl port-forward ml-57b8d7b48b-jfsqc 8080:80
+Forwarding from 127.0.0.1:8080 -> 80
+Handling connection for 8080
+
+
 $ ./make_prediction.sh
 Port: 80
 {
